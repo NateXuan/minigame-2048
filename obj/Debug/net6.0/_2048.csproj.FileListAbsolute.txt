@@ -1,0 +1,15 @@
+/Users/wenzongxuan/Desktop/Deakin/Code/2048/obj/Debug/net6.0/_2048.csproj.AssemblyReference.cache
+/Users/wenzongxuan/Desktop/Deakin/Code/2048/obj/Debug/net6.0/_2048.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wenzongxuan/Desktop/Deakin/Code/2048/obj/Debug/net6.0/_2048.AssemblyInfoInputs.cache
+/Users/wenzongxuan/Desktop/Deakin/Code/2048/obj/Debug/net6.0/_2048.AssemblyInfo.cs
+/Users/wenzongxuan/Desktop/Deakin/Code/2048/obj/Debug/net6.0/_2048.csproj.CoreCompileInputs.cache
+/Users/wenzongxuan/Desktop/Deakin/Code/2048/bin/Debug/net6.0/_2048
+/Users/wenzongxuan/Desktop/Deakin/Code/2048/bin/Debug/net6.0/_2048.deps.json
+/Users/wenzongxuan/Desktop/Deakin/Code/2048/bin/Debug/net6.0/_2048.runtimeconfig.json
+/Users/wenzongxuan/Desktop/Deakin/Code/2048/bin/Debug/net6.0/_2048.dll
+/Users/wenzongxuan/Desktop/Deakin/Code/2048/bin/Debug/net6.0/_2048.pdb
+/Users/wenzongxuan/Desktop/Deakin/Code/2048/obj/Debug/net6.0/_2048.dll
+/Users/wenzongxuan/Desktop/Deakin/Code/2048/obj/Debug/net6.0/refint/_2048.dll
+/Users/wenzongxuan/Desktop/Deakin/Code/2048/obj/Debug/net6.0/_2048.pdb
+/Users/wenzongxuan/Desktop/Deakin/Code/2048/obj/Debug/net6.0/_2048.genruntimeconfig.cache
+/Users/wenzongxuan/Desktop/Deakin/Code/2048/obj/Debug/net6.0/ref/_2048.dll
